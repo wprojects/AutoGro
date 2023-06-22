@@ -5,4 +5,6 @@ Official Docs --> https://autogro.gitbook.io/autogro-docs/
 
 Official Github --> https://github.com/autogro-ai/
 
+Discord --> https://discord.gg/e7aqsRRt
+
 ![AutoGro Rig](https://user-images.githubusercontent.com/57518634/228917023-a20d2ad3-0ee0-4f8d-8034-3a71b1fedffe.jpg)
